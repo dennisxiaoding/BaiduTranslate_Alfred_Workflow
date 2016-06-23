@@ -1,7 +1,7 @@
 # BaiduTranslate_Alfred_Workflow
 ###An Alfred workflow can help to translate the input language automatically by [Baidu's API](http://api.fanyi.baidu.com/api/trans/product/apidoc).
 
-##Useage
+##Usage
 'bdic' + space + words/sentences(any thing you want to be translated)
 
 ## Notice
